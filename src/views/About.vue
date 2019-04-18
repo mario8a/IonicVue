@@ -2,11 +2,7 @@
    <div class="ion-page">
       <ion-header>
       <ion-toolbar>
-        <ion-buttons slot="start">
-            <ion-back-button text="Regresar" defaultHref="/"></ion-back-button>
-        </ion-buttons>
-
-        <ion-title>About Page</ion-title>
+        <ion-title>Abouts Page</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content padding>

@@ -21,7 +21,7 @@
 
           <ion-row>
             <ion-col>
-              <ion-button color="danger" href="/About">AboutPage</ion-button>
+              <ion-button color="danger">AboutPage</ion-button>
             </ion-col>
             <ion-col>
               <ion-button color="tertiary" href="/About">HomePage</ion-button>
